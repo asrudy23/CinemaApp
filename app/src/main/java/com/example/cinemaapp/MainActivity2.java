@@ -1,5 +1,6 @@
 package com.example.cinemaapp;
 
+import android.content.pm.PackageInstaller;
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
